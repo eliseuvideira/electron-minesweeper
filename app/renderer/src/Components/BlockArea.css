@@ -1,0 +1,65 @@
+.block {
+  width: 30px;
+  max-width: 30px;
+  height: 30px;
+  max-height: 30px;
+}
+
+.block-box {
+  background-color: #b9b9b9;
+  border: 0.02px solid #757575ee;
+}
+
+.text {
+  font: menu;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.block-not-open {
+  padding: 5px;
+  background-color: #b9b9b9;
+  border: 1px solid #aaaaaa;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.block-bomb {
+  background-image: url('../../sprites/bomb-solid.svg');
+}
+
+.block-flag {
+  background-image: url('../../sprites/flag-solid.svg');
+}
+
+.block-number-1 {
+  color: #0000ff;
+}
+
+.block-number-2 {
+  color: #008200;
+}
+
+.block-number-3 {
+  color: #ff0000;
+}
+
+.block-number-4 {
+  color: #000084;
+}
+
+.block-number-5 {
+  color: #840000;
+}
+
+.block-number-6 {
+  color: #008284;
+}
+
+.block-number-7 {
+  color: #840084;
+}
+
+.block-number-8 {
+  color: #757575;
+}
